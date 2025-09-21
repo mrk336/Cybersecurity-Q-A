@@ -189,6 +189,23 @@ As **CISO**, my strategy is focused on prevention and resilience:
 
 Ransomware is not just a technical issue—it’s a business risk. Our cybersecurity posture protects shareholder value, customer trust, and operational resilience.
 
+## Q5: Tell me about a time you clashed with IT 
 
+While cybersecurity is its own function IT has different concerns and priorities mainly keeping users happy and seeing that uptime is maintained. One of the most memorable clashes I had was with our Head of IT over endpoint monitoring. I had just joined the company, and I was pushing for deeper visibility into user behavior things like USB usage, unusual logins, and shadow IT. He saw it as surveillance. I saw it as protection.
 
+We were both passionate, and the first few meetings were tense. At one point, he said, ‘You’re treating my team like suspects.’ That hit me. I paused and said, ‘I’m not trying to catch anyone I’m trying to make sure no one gets hurt.’
+
+That moment shifted everything. We grabbed coffee the next day, no laptops, no slides. Just two people trying to understand each other. I listened to his concerns about trust and culture. He listened to mine about risk and accountability. We ended up co-authoring a policy that balanced transparency with security—users were informed, controls were visible, and IT felt respected.
+
+That clash taught me something powerful: behind every technical disagreement is a human story. And if you don’t take time to hear it, you’ll never build the kind of trust that makes security truly work
+
+## Q6: What is the last scurity problem you solved for fun 
+
+I’m constantly exploring the edges of cybersecurity not just reacting to threats, but actively seeking them out. Whether it’s dissecting vulnerabilities in EDR agents or diving into newly published CVEs, I treat each one as a puzzle waiting to be solved. I write exploit code not just for the sake of proof-of-concept, but to simulate how a real attacker might move through my infrastructure. It’s a way of stress-testing my defenses with a red team mindset thinking like an adversary to uncover blind spots.
+
+But that’s only half the story. Once I’ve mapped out the attack paths, I flip the script and put on my blue team hat. I ask: how would I detect this? What logs would I need? How can I build controls that don’t just block attacks, but tell a story when something goes wrong? That back-and-forth between offense and defense is where I thrive it’s not just technical, it’s strategic.
+
+I’m also fascinated by how vulnerabilities can be chained. Sometimes a flaw looks trivial on its own, but when combined with others, it can open the door to a full breach. That kind of thinking connecting the dots, anticipating escalation is a big part of how I approach risk.
+
+You’ll find examples of this mindset in my GitHub portfolio, where I document not just code, but the reasoning behind it. It’s a space where I share what I’ve learned, what I’ve broken, and how I’ve built it back stronger.
 
