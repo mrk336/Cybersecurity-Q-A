@@ -175,8 +175,6 @@ Translate technical risk into business impact. Use analogies. Show what’s at s
 
 Engage with peers and industry groups. Share threat intelligence. When budgets shrink, collaboration becomes a force multiplier.
 
-## Q4: Explain Ransomeware to the board in 2 minutes 
-
 ## Q4: Explain Ransomware to the Board in 2 Minutes
 
 **Ransomware** is malicious software that infiltrates systems and encrypts critical data essentially digital extortion. Attackers typically gain access through phishing emails, compromised credentials, or unpatched vulnerabilities.
