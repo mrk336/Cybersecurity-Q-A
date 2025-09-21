@@ -1,5 +1,8 @@
 # Cybersecurity-Q-A
 
+*Questions by Wayne Daley* Stolen with permission https://www.linkedin.com/in/wayne-daley-cybersecurityhiringpartners/
+*Original Post* https://lnkd.in/p/deJmp7tw
+
 ## Q1: Walk Me Through Your First 24 Hours After a Breach
 
 When a breach hits, it’s not just a technical event—it’s a human one. Here’s how I respond, hour by hour, blending urgency with empathy, and strategy with grit.
